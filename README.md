@@ -1,3 +1,5 @@
+Author: Mohd Ishaq
+Date: 09/09/2022
 # IshCharity-TheAlgorithmAvengers
 
 PROBLEM STATEMENT : Centralised platform for NGO's and donors
